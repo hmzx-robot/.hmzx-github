@@ -7,3 +7,6 @@ This is an unofficial organization initiated by [Teror Fox](https://github.com/s
 You can contact Teror Fox through [i@trfox.top](mailto:i@trfox.top)to join org
 
 Perhaps we will do some fun projects in the future?
+
+# Members
+- @hmzx-robot Our Robot Account
